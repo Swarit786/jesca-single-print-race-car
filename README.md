@@ -80,6 +80,7 @@ The car was printed lying on its **X axis** — the axle runs parallel to the pr
 ### Slicer Preview
 
 ![Slicer preview](images/slicer_preview.gif)
+
 *Prusa Slicer preview showing print orientation and layer structure — wheel clearance zones visible in green*
 
 ### Print Parameters
