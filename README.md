@@ -101,6 +101,7 @@ Gyroid infill at 15% was chosen for its isotropic strength properties — it dis
 ## Race Challenge
 
 ![Ramp animation](images/ramp_animation.gif)
+
 *Championship ramp — 260 mm run, 300 mm drop. Cars released from the top, scored by distance divided by total print weight (car + supports)*
 
 The ramp geometry meant the car needed to handle both the initial acceleration on the curved section and maintain momentum across a flat surface. Rolling resistance (axle friction, wheel alignment) directly affected final distance.
