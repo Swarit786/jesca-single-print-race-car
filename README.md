@@ -41,8 +41,6 @@ The final axle uses a **conical flange design**: the wheel disc sits inside a ta
 |-----------|-----------|-----------|
 | Wheel diameter | Ø 20 mm | Ø 25 mm |
 | Shaft diameter | Ø 20 mm | Ø 25 mm |
-| Bore diameter | Ø 19.72 mm | — |
-| Radial clearance | 0.28 mm | — |
 
 The 0.28 mm radial clearance was selected based on axle test results to allow free rotation while minimising lateral wobble.
 
@@ -123,8 +121,6 @@ The ramp geometry meant the car needed to handle both the initial acceleration o
 
 ## Engineering Drawings
 
-![Axle drawing](images/axle_drawing.png)
-*Final axle technical drawing — front, side and top views with tolerances (Ø19.72 bore vs Ø20 shaft = 0.28 mm radial clearance)*
 
 ![Car drawing](images/car_drawing.png)
 *Car body technical drawing — overall dimensions within the 75 × 40 × 50 mm design space constraint*
@@ -136,7 +132,6 @@ Full PDF drawings available in the `drawings/` folder.
 ## Files
 
 - `car_assembly.step` — Full single-part CAD model
-- `drawings/axle_drawing.pdf` — Final axle technical drawing with dimensions and tolerances
 - `drawings/car_drawing.pdf` — Car body technical drawing
 - `images/slicer_preview.gif` — Prusa Slicer layer preview animation
 - `images/ramp_animation.gif` — Championship ramp simulation
